@@ -24,6 +24,7 @@ Aptitudes
 <P>
 	
 HTML - CSS - JAVASCRIPT - PYTHON
+
 Ingles-Portugues.
 
 </p>
