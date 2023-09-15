@@ -18,12 +18,12 @@ y tomando cursos externos sobre programacion.
 </p>
 
 <h3>
-Aptitudes
+Conocimientos/aprendiendo tecnologias:
 </h3>
 
 <P>
 	
-HTML - CSS - JAVASCRIPT - PYTHON
+HTML - CSS - JAVASCRIPT - SQL - PYTHON
 
 Ingles-Portugues.
 
