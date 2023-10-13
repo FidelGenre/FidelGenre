@@ -23,7 +23,7 @@ Conocimientos/aprendiendo tecnologias:
 
 <P>
 	
-HTML - CSS - JAVASCRIPT - SQL - PYTHON
+HTML - CSS - JAVASCRIPT - REACT- SQL/NOSQL - PYTHON
 
 Ingles-Portugues.
 
