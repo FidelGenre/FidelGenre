@@ -25,7 +25,7 @@ Conocimientos/aprendiendo tecnologias:
 	
 HTML - CSS - JAVASCRIPT - DATABASES - PYTHON
 
-Ingles-Portugues.
+Español-Ingles-Portugues.
 
 </p>
 </body>
