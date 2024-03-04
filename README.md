@@ -21,20 +21,17 @@ y tomando cursos externos sobre programacion.
 Conocimientos/aprendiendo tecnologias:
 </h3>
 
-<P>
-	
+<P>	
 HTML - CSS - JAVASCRIPT - DATABASES - PYTHON
-
 </P>
 
 <h3>
 Idiomas:
 <h3>
 
-<p>
- 
+<P>
 Español-Ingles-Portugues.
-
 </p>
+
 </body>
 </html>
