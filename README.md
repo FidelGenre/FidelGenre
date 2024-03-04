@@ -27,7 +27,7 @@ HTML - CSS - JAVASCRIPT - DATABASES - PYTHON
 
 <h3>
 Idiomas:
-<h3>
+</h3>
 
 <P>
 Español-Ingles-Portugues.
