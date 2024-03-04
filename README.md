@@ -25,11 +25,14 @@ Conocimientos/aprendiendo tecnologias:
 	
 HTML - CSS - JAVASCRIPT - DATABASES - PYTHON
 
-<P>
+</P>
 
-<P>
-Idiomas
-	
+<h3>
+Idiomas:
+<h3>
+
+<p>
+ 
 Español-Ingles-Portugues.
 
 </p>
