@@ -29,7 +29,7 @@ Lenguages:
 </h3>
 
 <P>
-Español-english-Portuguese.
+Español-English-Portuguese.
 </p>
 
 </body>
