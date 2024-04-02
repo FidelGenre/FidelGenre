@@ -7,18 +7,17 @@
  </tittle> 
 
 <h3>
-Sobre Mi
+About Me:
 </h3>
 
 <body>
 	
 <p>
-Actualmente estudiando desarrollo de software en Instituto Superior Icop
-y tomando cursos externos sobre programacion.
+Currently studying software development at Instituto Superior Icop and taking external courses on programming.
 </p>
 
 <h3>
-Conocimientos/aprendiendo tecnologias:
+Knowledge/learning technologies:
 </h3>
 
 <P>	
@@ -26,11 +25,11 @@ HTML - CSS - JAVASCRIPT - DATABASES - PYTHON
 </P>
 
 <h3>
-Idiomas:
+Lenguages:
 </h3>
 
 <P>
-Español-Ingles-Portugues.
+Español-english-Portuguese.
 </p>
 
 </body>
