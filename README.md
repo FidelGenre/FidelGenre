@@ -21,7 +21,7 @@ Knowledge/learning technologies:
 </h3>
 
 <P>	
-HTML - CSS - JAVASCRIPT - GIT - DATABASES - PYTHON 
+HTML - CSS - JAVASCRIPT - REACT - GIT - DATABASES - PYTHON 
 </P>
 
 <h3>
