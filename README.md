@@ -21,7 +21,7 @@ Actually workin with:
 </h3>
 
 <P>	
-HTML - CSS - JAVASCRIPT -NODEJS - REACT - GIT
+HTML - CSS - JAVASCRIPT - NODEJS - REACT - GIT
 </P>
 
 <h3>
