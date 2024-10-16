@@ -17,11 +17,11 @@ Currently studying software development at Instituto Superior Icop and taking ex
 </p>
 
 <h3>
-Knowledge/learning technologies:
+Actually workin with:
 </h3>
 
 <P>	
-HTML - CSS - JAVASCRIPT - REACT - GIT - DATABASES - PYTHON 
+HTML - CSS - JAVASCRIPT -NODEJS - REACT - GIT
 </P>
 
 <h3>
