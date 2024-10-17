@@ -17,7 +17,7 @@ Currently studying software development at Instituto Superior Icop and taking ex
 </p>
 
 <h3>
-Actually working with:
+Actually Working With:
 </h3>
 
 <P>	
