@@ -21,8 +21,7 @@ Knowledge/Working With:
 </h3>
 
 <P>	
-HTML - CSS - JAVASCRIPT - GIT
-  PHP - MYSQL - DATABASES
+HTML - CSS - JAVASCRIPT - GIT - PHP - MYSQL - DATABASES
 </P>
 
 <h3>
