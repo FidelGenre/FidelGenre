@@ -17,19 +17,12 @@ Currently studying software development at Instituto Superior Icop and taking ex
 </p>
 
 <h3>
-Actually Working With:
+Knowledge/Working With:
 </h3>
 
 <P>	
-HTML - CSS - JAVASCRIPT - REACT - GIT
-</P>
-
-<h3>
-Basic Knowledge In:
-</h3>
-
-<P>	
-PYTHON - PHP - DATABASES - MYSQL
+HTML - CSS - JAVASCRIPT - GIT
+  PHP - MYSQL - DATABASES
 </P>
 
 <h3>
