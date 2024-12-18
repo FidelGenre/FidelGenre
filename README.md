@@ -13,7 +13,7 @@ About Me:
 <body>
 	
 <p>
-Currently studying software development at Instituto Superior Icop, working as a IT technician in Santa Fe Civil Registry taking external courses on programming.
+Currently studying software development at Instituto Superior Icop, working as a IT technician in Santa Fe Civil Registry and taking external courses on programming.
 </p>
 
 <h3>
