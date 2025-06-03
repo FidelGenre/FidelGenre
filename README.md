@@ -21,7 +21,7 @@ Knowledge/Working With:
 </h3>
 
 <P>	
-HTML, CSS, JavaScript and React in Frontend and for back/databases with PHP and MySQL
+JavaScript and React in Frontend and for back/databases with PHP and MySQL
 </P>
 
 <h3>
