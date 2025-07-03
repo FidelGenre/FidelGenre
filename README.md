@@ -21,7 +21,7 @@ Knowledge/Working With:
 </h3>
 
 <P>	
-JavaScript, React and PHP
+React,JavaScript and PHP/Node
 </P>
 
 <h3>
