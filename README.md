@@ -22,7 +22,7 @@ Knowledge/Working With:
 
 <P>	
 HTML, CSS, JavaScript and React in frontend
-and PHP/Node SQL/NoSQL and API implementation in back-end systems
+and Node(Express) MySQL/MongoDB and API implementation in back-end systems
 </P>
 
 <h3>
