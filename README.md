@@ -22,7 +22,7 @@ Knowledge/Working With:
 
 <P>	
 HTML, CSS, JavaScript and React in frontend <br>
-and PHP(laravel)/nodejs MySQL/MongoDB and API implementation in back-end systems <br>
+and PHP(laravel)/nodejs(express) MySQL/MongoDB and API implementation in back-end systems <br>
 also using Wordpress
 </P>
 
