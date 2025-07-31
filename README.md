@@ -23,7 +23,7 @@ Knowledge/Working With:
 <P>	
 HTML, CSS, JavaScript and React in frontend <br>
 and PHP(laravel)/nodejs MySQL/MongoDB and API implementation in back-end systems <br>
-also also learning C# and Unity
+also using Wordpress
 </P>
 
 <h3>
