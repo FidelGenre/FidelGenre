@@ -13,7 +13,7 @@ About Me:
 <body>
 	
 <p>
-Currently studying software development
+Currently studying Software Development, taking external courses, and doing freelance work.
 </p>
 
 <h3>
@@ -21,9 +21,7 @@ Knowledge/Working With:
 </h3>
 
 <P>	
-HTML, CSS, JavaScript and React in frontend <br>
-and PHP(laravel)/nodejs(express) MySQL/MongoDB and API implementation in back-end systems <br>
-also using Wordpress
+Experienced with computers including networking, hardware, software, and related areas. Knowledge and learning technologies include HTML, CSS, JavaScript, and React for frontend, and Node.js (Express), MySQL, MongoDB, and API development for backend systems. I also know PHP and create WordPress websites using Astra and tools like Elementor, WooCommerce, and Contact Form 7 in my spare time.
 </P>
 
 <h3>
