@@ -21,7 +21,10 @@ Knowledge/Working With:
 </h3>
 
 <P>	
-Experienced with computers including networking, hardware, software, and related areas. Knowledge and learning technologies include HTML, CSS, JavaScript, and React for frontend, and Node.js (Express), MySQL, MongoDB, and API development for backend systems. I also know PHP and create WordPress websites using Astra and tools like Elementor, WooCommerce, and Contact Form 7 in my spare time.
+Experienced with computers including networking, hardware, software, and related areas.
+Knowledge and learning technologies include HTML, CSS, JavaScript, and React for frontend.
+Node.js(Express)/JAVA, PostgreSQL/MongoDB, and API development for backend systems.
+Additionally, I am skilled in developing and managing websites using WordPress.
 </P>
 
 <h3>
