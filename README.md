@@ -24,6 +24,7 @@ Knowledge/Working With:
 Experienced with computers including networking, hardware, software, and related areas.<br>
 Knowledge and learning technologies include HTML, CSS, JavaScript, and React for frontend.<br>
 Node.js(Express)/JAVA(Springboot), PostgreSQL/MongoDB, and API development for backend systems.<br>
+I also have skills in Git, hosting, and Docker, whichcomplement my full-stack development workflow.
 </P>
 
 <h3>
