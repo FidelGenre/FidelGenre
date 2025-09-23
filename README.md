@@ -1,9 +1,7 @@
 <html>		
 
  <tittle> 
- <h1>
-	 Fidel Genre
- </h1> 
+<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm Fidel Genre</h1>
  </tittle> 
 
 <h3>
