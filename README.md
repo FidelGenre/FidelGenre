@@ -13,7 +13,8 @@ About Me:
 <p>
 I’m Fidel Genre, a Software Development student in my final year at university.<br>
 I currently work as a freelance full-stack developer, creating modern web applications for clients and personal projects.<br>
-I’m passionate about learning, growing, and building solutions that are productive, innovative, and creative.
+I’m passionate about learning, growing, and building solutions that are productive, innovative, and creative.<br>
+I have Experience with computers including networking, hardware, software, and related areas.
 </p>
 
 <h3>
