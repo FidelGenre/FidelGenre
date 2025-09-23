@@ -5,7 +5,7 @@
  </tittle> 
 
 <h3>
-About Me:
+About Me
 </h3>
 
 <body>
@@ -18,12 +18,9 @@ I have Experience with computers including networking, hardware, software, and r
 </p>
 
 <h3>
-Knowledge/Working With:
+Technologies
 </h3>
 
-<P>	
-Experienced with computers including networking, hardware, software, and related areas.<br>
-Knowledge and learning technologies <br><br>
 <span>
 	<img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
 	<img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
@@ -36,7 +33,6 @@ Knowledge and learning technologies <br><br>
 	<img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white">
 	<img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white">
 </span>
-</P>
 
 <h3>
 	Socials
@@ -46,6 +42,8 @@ Knowledge and learning technologies <br><br>
 <a href="https://www.instagram.com/fidelgenre">
 <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
 </a>
+<a href="https://www.linkedin.com/in/fidelgenre/">
+<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
 </p>
 
 </body>
