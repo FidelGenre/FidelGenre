@@ -23,17 +23,29 @@ Knowledge/Working With:
 
 <P>	
 Experienced with computers including networking, hardware, software, and related areas.<br>
-Knowledge and learning technologies include HTML, CSS, JavaScript, and React for frontend.<br>
-Node.js(Express)/JAVA(Springboot), PostgreSQL/MongoDB, and API development for backend systems.<br>
-I also have skills in Git, hosting, and Docker, whichcomplement my full-stack development workflow.
+Knowledge and learning technologies <br><br>
+<span>
+	<img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
+	<img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
+	<img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)">
+	<img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
+	<br>
+	<img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white">
+	<img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB">
+	<img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"><br>
+	<img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white">
+	<img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white">
+</span>
 </P>
 
 <h3>
-Lenguages:
+	Socials
 </h3>
 
 <P>
-Español-English-Portuguese.
+<a href="https://www.instagram.com/fidelgenre">
+<img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
+</a>
 </p>
 
 </body>
