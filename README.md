@@ -1,8 +1,4 @@
 <html>		
-<head>
-    <title>Fidel Genre | Software Engineer</title>
-</head>
-
 <body>
 
 <h1 align="center">Hi, I'm Fidel Genre 📦</h1>
