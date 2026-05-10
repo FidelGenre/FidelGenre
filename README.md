@@ -23,9 +23,6 @@
     <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
     <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white">
     <br>
-    <img src="https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white">
-    <img src="https://img.shields.io/badge/Foundry-FF3E00?style=for-the-badge&logo=foundry&logoColor=white">
-    <img src="https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=web3.dot.js&logoColor=white">
     <br>
     <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white">
     <img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white">
