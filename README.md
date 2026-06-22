@@ -25,10 +25,6 @@
     <img src="https://img.shields.io/badge/React%20Vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white">
     <img src="https://img.shields.io/badge/React%20Native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
     <img src="https://img.shields.io/badge/Next.js-%23000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white">
-    <br>
-    <img src="https://img.shields.io/badge/Context%20API-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=white">
-    <img src="https://img.shields.io/badge/Axios-%23671DDF.svg?style=for-the-badge&logo=axios&logoColor=white">
-    <img src="https://img.shields.io/badge/Socket.io-%23010101.svg?style=for-the-badge&logo=socket.io&logoColor=white">
 </span>
 
 <h3>Backend</h3>
@@ -36,19 +32,16 @@
 <span>
     <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white">
     <img src="https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?style=for-the-badge&logo=spring-boot&logoColor=white">
-    <img src="https://img.shields.io/badge/Security-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white">
     <img src="https://img.shields.io/badge/JPA-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white">
-    <br>
     <img src="https://img.shields.io/badge/Hibernate-%23ED8B00.svg?style=for-the-badge&logo=hibernate&logoColor=white">
+    <br>
     <img src="https://img.shields.io/badge/JWT-%23000000.svg?style=for-the-badge&logo=json-web-tokens&logoColor=white">
     <img src="https://img.shields.io/badge/Node.js-%236DA55F.svg?style=for-the-badge&logo=node.js&logoColor=white">
     <img src="https://img.shields.io/badge/Nest.js-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white">
-    <br>
     <img src="https://img.shields.io/badge/APIs%20RESTful-%2300A86B.svg?style=for-the-badge&logo=api&logoColor=white">
-    <img src="https://img.shields.io/badge/Socket.io-%23010101.svg?style=for-the-badge&logo=socket.io&logoColor=white">
 </span>
 
-<h3>Databases & Data</h3>
+<h3>Databases</h3>
 
 <span>
     <img src="https://img.shields.io/badge/SQL-%23CC2927.svg?style=for-the-badge&logo=sql&logoColor=white">
@@ -56,17 +49,14 @@
     <img src="https://img.shields.io/badge/H2%20Database-%23004B87.svg?style=for-the-badge&logo=database&logoColor=white">
 </span>
 
-<h3>Tools & Infrastructure</h3>
+<h3>Infrastructure</h3>
 
 <span>
     <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white">
     <img src="https://img.shields.io/badge/Fly-%237B3FF2.svg?style=for-the-badge&logo=fly&logoColor=white">
     <img src="https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white">
     <img src="https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white">
-    <br>
     <img src="https://img.shields.io/badge/Git%2FGitHub-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white">
-    <img src="https://img.shields.io/badge/Postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white">
-    <img src="https://img.shields.io/badge/Stripe-%235469d4.svg?style=for-the-badge&logo=stripe&logoColor=white">
 </span>
 
 <h3>Languages</h3>
