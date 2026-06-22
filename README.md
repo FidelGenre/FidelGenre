@@ -12,33 +12,33 @@
     I am driven by a constant curiosity for emerging technologies and a commitment to clean code.
 </p>
 
-<table>
+<table style="width:100%; border-collapse: collapse;">
 <tr>
-<td>
+<td style="width:50%; padding: 10px 20px 10px 0; border: none;">
 <h3>🎨 Frontend</h3>
 <p>HTML5 • CSS3 • Tailwind CSS • JavaScript • TypeScript • React • Next.js</p>
 </td>
-<td>
+<td style="width:50%; padding: 10px 0 10px 20px; border: none;">
 <h3>⚙️ Backend</h3>
 <p>Java • Spring Boot • Node.js • Nest.js</p>
 </td>
 </tr>
 <tr>
-<td>
+<td style="width:50%; padding: 10px 20px 10px 0; border: none;">
 <h3>🗄️ Databases</h3>
 <p>SQL • PostgreSQL • H2 Database</p>
 </td>
-<td>
+<td style="width:50%; padding: 10px 0 10px 20px; border: none;">
 <h3>☁️ Infrastructure</h3>
 <p>AWS • Docker • Vercel • Git/GitHub</p>
 </td>
 </tr>
 <tr>
-<td>
+<td style="width:50%; padding: 10px 20px 10px 0; border: none;">
 <h3>🌍 Languages</h3>
 <p>Español • English • Portuguese</p>
 </td>
-<td></td>
+<td style="width:50%; padding: 10px 0 10px 20px; border: none;"></td>
 </tr>
 </table>
 
