@@ -12,53 +12,30 @@
     I am driven by a constant curiosity for emerging technologies and a commitment to clean code.
 </p>
 
-<h3>Frontend</h3>
+<h3>🎨 Frontend</h3>
+<p>
+    HTML5 • CSS3 • Tailwind CSS • JavaScript • TypeScript • React • Next.js
+</p>
 
-<span>
-    <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
-    <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
-    <img src="https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white">
-    <img src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
-    <img src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white">
-    <br>
-    <img src="https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
-    <img src="https://img.shields.io/badge/Next.js-%23000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white">
-</span>
+<h3>⚙️ Backend</h3>
+<p>
+    Java • Spring Boot • Node.js • Nest.js
+</p>
 
-<h3>Backend</h3>
+<h3>🗄️ Databases</h3>
+<p>
+    SQL • PostgreSQL • H2 Database
+</p>
 
-<span>
-    <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white">
-    <img src="https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?style=for-the-badge&logo=spring-boot&logoColor=white">
-    <img src="https://img.shields.io/badge/Node.js-%236DA55F.svg?style=for-the-badge&logo=node.js&logoColor=white">
-    <br>
-    <img src="https://img.shields.io/badge/Nest.js-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white">
-</span>
+<h3>☁️ Infrastructure</h3>
+<p>
+    AWS • Docker • Vercel • Git/GitHub
+</p>
 
-<h3>Databases</h3>
-
-<span>
-    <img src="https://img.shields.io/badge/SQL-%23CC2927.svg?style=for-the-badge&logo=sql&logoColor=white">
-    <img src="https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white">
-    <img src="https://img.shields.io/badge/H2%20Database-%23004B87.svg?style=for-the-badge&logo=database&logoColor=white">
-</span>
-
-<h3>Infrastructure</h3>
-
-<span>
-    <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white">
-    <img src="https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white">
-    <img src="https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white">
-    <img src="https://img.shields.io/badge/Git%2FGitHub-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white">
-</span>
-
-<h3>Languages</h3>
-
-<span>
-    <img src="https://img.shields.io/badge/Spanish-%23A4373A.svg?style=for-the-badge&logo=speaker&logoColor=white">
-    <img src="https://img.shields.io/badge/English-%23002868.svg?style=for-the-badge&logo=speaker&logoColor=white">
-    <img src="https://img.shields.io/badge/Portuguese-%23007D5E.svg?style=for-the-badge&logo=speaker&logoColor=white">
-</span>
+<h3>🌍 Languages</h3>
+<p>
+    Español • English • Portuguese
+</p>
 
 <h3>Socials</h3>
 
