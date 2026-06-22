@@ -13,13 +13,9 @@ I am driven by a constant curiosity for emerging technologies and a commitment t
 | **🎨 Frontend** | **⚙️ Backend** |
 |---|---|
 | HTML5 • CSS3 • Tailwind CSS • JavaScript • TypeScript • React • Next.js | Java • Spring Boot • Node.js • Nest.js |
-
 | **🗄️ Databases** | **☁️ Infrastructure** |
-|---|---|
 | SQL • PostgreSQL • H2 Database | AWS • Docker • Vercel • Git/GitHub |
-
 | **🌍 Languages** | |
-|---|---|
 | Español • English • Portuguese | |
 
 ---
