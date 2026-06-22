@@ -2,11 +2,7 @@
 
 ## About Me
 
-I'm a **Software Engineer** dedicated to building scalable digital solutions that bridge the gap between traditional software architectures and the decentralized web.
-
-I specialize in crafting high-performance applications with a strong focus on security, efficiency, and user experience. Whether I'm developing robust backend systems or secure smart contracts, I enjoy transforming complex challenges into elegant, production-ready solutions.
-
-I am driven by a constant curiosity for emerging technologies and a commitment to clean code.
+Trabajando como Desarrollador de Software Cuento con una sólida experiencia en informática, incluyendo redes, hardware, software y áreas afines. Mi enfoque principal es la creación de soluciones web completas, gestionando tanto el lado del cliente (frontend) como el del servidor (backend) de las aplicaciones. También poseo experiencia en control de versiones, despliegue y contenerización, lo que complementa mi flujo de trabajo de desarrollo integral.
 
 ---
 
