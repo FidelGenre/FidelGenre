@@ -32,9 +32,7 @@
     <img src="https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?style=for-the-badge&logo=spring-boot&logoColor=white">
     <img src="https://img.shields.io/badge/Node.js-%236DA55F.svg?style=for-the-badge&logo=node.js&logoColor=white">
     <br>
-    <img src="https://img.shields.io/badge/JPA-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white">
-    <img src="https://img.shields.io/badge/Hibernate-%23ED8B00.svg?style=for-the-badge&logo=hibernate&logoColor=white">
-    <img src="https://img.shields.io/badge/APIs%20RESTful-%2300A86B.svg?style=for-the-badge&logo=api&logoColor=white">
+    <img src="https://img.shields.io/badge/Nest.js-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white">
 </span>
 
 <h3>Databases</h3>
