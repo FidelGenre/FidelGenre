@@ -20,19 +20,12 @@
     <img src="https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white">
     <img src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
     <img src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white">
-    <img src="https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
     <br>
+    <img src="https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
     <img src="https://img.shields.io/badge/React%20Vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white">
     <img src="https://img.shields.io/badge/React%20Native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
     <img src="https://img.shields.io/badge/Next.js-%23000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white">
-    <img src="https://img.shields.io/badge/App%20Router-%23000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white">
     <br>
-    <img src="https://img.shields.io/badge/Server%20Components-%23000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white">
-    <img src="https://img.shields.io/badge/Server%20Actions-%23000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white">
-    <img src="https://img.shields.io/badge/SSR%2FSSG-%23000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white">
-    <img src="https://img.shields.io/badge/SEO%20Optimization-%2300A86B.svg?style=for-the-badge&logo=google&logoColor=white">
-    <br>
-    <img src="https://img.shields.io/badge/Custom%20Hooks-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=white">
     <img src="https://img.shields.io/badge/Context%20API-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=white">
     <img src="https://img.shields.io/badge/Axios-%23671DDF.svg?style=for-the-badge&logo=axios&logoColor=white">
     <img src="https://img.shields.io/badge/Socket.io-%23010101.svg?style=for-the-badge&logo=socket.io&logoColor=white">
@@ -42,16 +35,15 @@
 
 <span>
     <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white">
-    <img src="https://img.shields.io/badge/Spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white">
     <img src="https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?style=for-the-badge&logo=spring-boot&logoColor=white">
     <img src="https://img.shields.io/badge/Security-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white">
-    <br>
     <img src="https://img.shields.io/badge/JPA-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white">
+    <br>
     <img src="https://img.shields.io/badge/Hibernate-%23ED8B00.svg?style=for-the-badge&logo=hibernate&logoColor=white">
     <img src="https://img.shields.io/badge/JWT-%23000000.svg?style=for-the-badge&logo=json-web-tokens&logoColor=white">
     <img src="https://img.shields.io/badge/Node.js-%236DA55F.svg?style=for-the-badge&logo=node.js&logoColor=white">
-    <br>
     <img src="https://img.shields.io/badge/Nest.js-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white">
+    <br>
     <img src="https://img.shields.io/badge/APIs%20RESTful-%2300A86B.svg?style=for-the-badge&logo=api&logoColor=white">
     <img src="https://img.shields.io/badge/Socket.io-%23010101.svg?style=for-the-badge&logo=socket.io&logoColor=white">
 </span>
@@ -62,28 +54,18 @@
     <img src="https://img.shields.io/badge/SQL-%23CC2927.svg?style=for-the-badge&logo=sql&logoColor=white">
     <img src="https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white">
     <img src="https://img.shields.io/badge/H2%20Database-%23004B87.svg?style=for-the-badge&logo=database&logoColor=white">
-    <img src="https://img.shields.io/badge/Relational%20Models-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white">
 </span>
 
 <h3>Tools & Infrastructure</h3>
 
 <span>
-    <img src="https://img.shields.io/badge/Postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white">
-    <img src="https://img.shields.io/badge/IntelliJ-%23000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white">
-    <img src="https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white">
-    <img src="https://img.shields.io/badge/Cursor-%2300000.svg?style=for-the-badge&logo=cursor&logoColor=white">
-    <br>
     <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white">
-    <img src="https://img.shields.io/badge/EC2-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white">
-    <img src="https://img.shields.io/badge/S3-%23FF9900.svg?style=for-the-badge&logo=amazon-s3&logoColor=white">
-    <img src="https://img.shields.io/badge/RDS-%23FF9900.svg?style=for-the-badge&logo=amazon-rds&logoColor=white">
-    <img src="https://img.shields.io/badge/ECS-%23FF9900.svg?style=for-the-badge&logo=amazon-ecs&logoColor=white">
-    <br>
     <img src="https://img.shields.io/badge/Fly-%237B3FF2.svg?style=for-the-badge&logo=fly&logoColor=white">
     <img src="https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white">
     <img src="https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white">
-    <img src="https://img.shields.io/badge/Git%2FGitHub-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white">
     <br>
+    <img src="https://img.shields.io/badge/Git%2FGitHub-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white">
+    <img src="https://img.shields.io/badge/Postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white">
     <img src="https://img.shields.io/badge/Stripe-%235469d4.svg?style=for-the-badge&logo=stripe&logoColor=white">
 </span>
 
