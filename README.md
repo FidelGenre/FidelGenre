@@ -10,20 +10,52 @@ I am driven by a constant curiosity for emerging technologies and a commitment t
 
 ---
 
+<div style="display: grid; grid-template-columns: 1fr 1fr; gap: 20px;">
+
+<div>
+
 ### 🎨 Frontend
 HTML5 • CSS3 • Tailwind CSS • JavaScript • TypeScript • React • Next.js
+
+</div>
+
+<div>
 
 ### ⚙️ Backend
 Java • Spring Boot • Node.js • Nest.js
 
+</div>
+
+</div>
+
+<div style="display: grid; grid-template-columns: 1fr 1fr; gap: 20px;">
+
+<div>
+
 ### 🗄️ Databases
 SQL • PostgreSQL • H2 Database
+
+</div>
+
+<div>
 
 ### ☁️ Infrastructure
 AWS • Docker • Vercel • Git/GitHub
 
+</div>
+
+</div>
+
+<div style="display: grid; grid-template-columns: 1fr 1fr; gap: 20px;">
+
+<div>
+
 ### 🌍 Languages
 Español • English • Portuguese
+
+</div>
+
+</div>
 
 ---
 
