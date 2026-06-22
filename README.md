@@ -12,7 +12,7 @@
     I am driven by a constant curiosity for emerging technologies and a commitment to clean code.
 </p>
 
-<h3>Frontend</h3>
+<h3>Technologies</h3>
 
 <span>
     <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
@@ -22,27 +22,10 @@
     <img src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white">
     <img src="https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
     <br>
-    <img src="https://img.shields.io/badge/React%20Vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white">
     <img src="https://img.shields.io/badge/React%20Native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
     <img src="https://img.shields.io/badge/Next.js-%23000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white">
-    <img src="https://img.shields.io/badge/App%20Router-%23000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white">
     <br>
-    <img src="https://img.shields.io/badge/Server%20Components-%23000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white">
-    <img src="https://img.shields.io/badge/Server%20Actions-%23000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white">
-    <img src="https://img.shields.io/badge/SSR%2FSSG-%23000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white">
-    <img src="https://img.shields.io/badge/SEO%20Optimization-%2300A86B.svg?style=for-the-badge&logo=google&logoColor=white">
-    <br>
-    <img src="https://img.shields.io/badge/Custom%20Hooks-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=white">
-    <img src="https://img.shields.io/badge/Context%20API-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=white">
-    <img src="https://img.shields.io/badge/Axios-%23671DDF.svg?style=for-the-badge&logo=axios&logoColor=white">
-    <img src="https://img.shields.io/badge/Socket.io-%23010101.svg?style=for-the-badge&logo=socket.io&logoColor=white">
-</span>
-
-<h3>Backend</h3>
-
-<span>
     <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white">
-    <img src="https://img.shields.io/badge/Spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white">
     <img src="https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?style=for-the-badge&logo=spring-boot&logoColor=white">
     <img src="https://img.shields.io/badge/Security-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white">
     <br>
@@ -54,11 +37,6 @@
     <img src="https://img.shields.io/badge/Nest.js-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white">
     <img src="https://img.shields.io/badge/APIs%20RESTful-%2300A86B.svg?style=for-the-badge&logo=api&logoColor=white">
     <img src="https://img.shields.io/badge/Socket.io-%23010101.svg?style=for-the-badge&logo=socket.io&logoColor=white">
-</span>
-
-<h3>Databases & Data</h3>
-
-<span>
     <img src="https://img.shields.io/badge/SQL-%23CC2927.svg?style=for-the-badge&logo=sql&logoColor=white">
     <img src="https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white">
     <img src="https://img.shields.io/badge/H2%20Database-%23004B87.svg?style=for-the-badge&logo=database&logoColor=white">
