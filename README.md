@@ -6,10 +6,10 @@
 <h3>About Me</h3>
 
 <p>
-    I'm a <strong>Software Engineer</strong> dedicated to building scalable digital solutions that bridge the gap between traditional software architectures and the decentralized web.<br>
-    I specialize in crafting high-performance applications with a strong focus on security, efficiency, and user experience.<br>
-    Whether I'm developing robust backend systems or secure smart contracts, I enjoy transforming complex challenges into elegant, production-ready solutions.<br>
-    I am driven by a constant curiosity for emerging technologies and a commitment to clean code.
+I'm a <strong>Software Engineer</strong>
+I have strong experience with computers, including networking, hardware, software, and related areas
+My focus is on building complete web solutions, handling both the client and server sides of applications
+I also have experience with version control, deployment, and containerization, which complement my full development workflow
 </p>
 
 <h3>Technologies</h3>
