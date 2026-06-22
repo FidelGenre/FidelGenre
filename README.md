@@ -12,30 +12,35 @@
     I am driven by a constant curiosity for emerging technologies and a commitment to clean code.
 </p>
 
+<table>
+<tr>
+<td>
 <h3>🎨 Frontend</h3>
-<p>
-    HTML5 • CSS3 • Tailwind CSS • JavaScript • TypeScript • React • Next.js
-</p>
-
+<p>HTML5 • CSS3 • Tailwind CSS • JavaScript • TypeScript • React • Next.js</p>
+</td>
+<td>
 <h3>⚙️ Backend</h3>
-<p>
-    Java • Spring Boot • Node.js • Nest.js
-</p>
-
+<p>Java • Spring Boot • Node.js • Nest.js</p>
+</td>
+</tr>
+<tr>
+<td>
 <h3>🗄️ Databases</h3>
-<p>
-    SQL • PostgreSQL • H2 Database
-</p>
-
+<p>SQL • PostgreSQL • H2 Database</p>
+</td>
+<td>
 <h3>☁️ Infrastructure</h3>
-<p>
-    AWS • Docker • Vercel • Git/GitHub
-</p>
-
+<p>AWS • Docker • Vercel • Git/GitHub</p>
+</td>
+</tr>
+<tr>
+<td>
 <h3>🌍 Languages</h3>
-<p>
-    Español • English • Portuguese
-</p>
+<p>Español • English • Portuguese</p>
+</td>
+<td></td>
+</tr>
+</table>
 
 <h3>Socials</h3>
 
